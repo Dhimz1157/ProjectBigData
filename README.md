@@ -9,7 +9,8 @@ Proyek ini bertujuan untuk menganalisis dataset Spotify menggunakan pendekatan e
 ## Dataset 📂
 Dataset yang digunakan dalam proyek ini berasal dari Spotify, yang mencakup informasi lagu seperti nama, artis, popularitas, genre, durasi, dan fitur audio lainnya. Dataset ini tersedia untuk diunduh melalui tautan berikut:
 
-- - [Spotify Dataset](https://raw.githubusercontent.com/Dhimz1157/ProjectBigData/main/Dataset/spotify_songs.csv)
+- [Spotify Dataset](https://raw.githubusercontent.com/Dhimz1157/ProjectBigData/refs/heads/main/Dataset/spotify_songs.csv)
+
 
 ---
 

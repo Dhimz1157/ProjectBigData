@@ -41,32 +41,32 @@ Dataset terdiri dari 23 kolom, dengan kombinasi tipe data numerik dan kategorika
 ### 1. Popularitas Genre dan Subgenre
 Berdasarkan visualisasi di atas, genre `pop` mendominasi popularitas dengan rata-rata tertinggi, diikuti oleh genre `latin`, `rap`, dan `r&b`. Subgenre `dance pop` menjadi yang paling menonjol dalam kategori `pop`, sedangkan `reggaeton` dan `latin pop` mendominasi dalam genre `latin`.
 
-![Popularitas Genre](.Images/ByGenre.png)
+![Popularitas Genre](./Images/ByGenre.png)
 
 ### 2. Lagu-lagu Terpopuler Berdasarkan Artis
 Dari analisis ini, "Dance Monkey" oleh Tones and I memiliki popularitas tertinggi dengan skor 100. Lagu-lagu seperti "ROXANNE" oleh Arizona Zervas juga menonjol, menunjukkan bagaimana tren media sosial dapat memengaruhi popularitas.
 
-![Popularitas Artis](.Images/ByArtist.png)
+![Popularitas Artis](./Images/ByArtist.png)
 
 ### 3. Subgenre Terpopuler Berdasarkan Genre
 Dalam kategori `pop`, subgenre `post-teen pop` mencatatkan popularitas tertinggi dengan rata-rata 56,83. Sedangkan dalam kategori `latin`, subgenre `reggaeton` mendominasi dengan popularitas rata-rata 52,87.
 
-![Popular SubGenre](.Images/PopularSub.png)
+![Popular SubGenre](./Images/PopularSub.png)
 
 ### 4. Distribusi Lagu Berdasarkan Tahun Rilis
 Visualisasi menunjukkan bahwa lagu-lagu dari tahun 1957 adalah yang tertua dalam dataset ini. Selain itu, ada peningkatan signifikan dalam jumlah lagu yang dirilis pada dekade 2010-an, mencerminkan ekspansi industri musik pada platform digital.
 
-![Yearly Trend](.Images/Trend.png)
+![Yearly Trend](./Images/Trend.png)
 
 ### 5. Tren Popularitas Selama Bertahun-tahun
 Tahun 1958 mencatatkan rata-rata popularitas tertinggi dengan skor 73, kemungkinan karena terbatasnya data dari era tersebut. Tren berikutnya menunjukkan fluktuasi popularitas lagu dari waktu ke waktu.
 
-![Yearly Popular](.Images/YearDist.png)
+![Yearly Popular](./Images/YearDist.png)
 
 ### 6. Distribusi Danceability
 Sebagian besar lagu memiliki danceability antara 0,56 hingga 0,76, dengan rata-rata 0,65. Hal ini menunjukkan bahwa sebagian besar lagu memiliki karakteristik yang cukup menarik untuk aktivitas fisik seperti menari.
 
-![Danceability](.Images/danceabi.png)
+![Danceability](./Images/danceabi.png)
 
 ---
 

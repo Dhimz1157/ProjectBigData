@@ -23,6 +23,12 @@ Dataset terdiri dari 23 kolom, dengan kombinasi tipe data numerik dan kategorika
    - Genre `pop` adalah yang paling populer, dengan rata-rata popularitas 47,74.
    - Subgenre `dance pop` menonjol dengan rata-rata popularitas 52,08.
 
+   ![Popularitas Genre dan Subgenre](sandbox:/mnt/data/newplot.png)
+
+   <p align="justify">
+   Berdasarkan visualisasi di atas, genre `pop` mendominasi popularitas dengan rata-rata tertinggi, diikuti oleh genre `latin`, `rap`, dan `r&b`. Subgenre `dance pop` menjadi yang paling menonjol dalam kategori `pop`, sedangkan `reggaeton` dan `latin pop` mendominasi dalam genre `latin`.
+   </p>
+
 2. **Lagu Terpopuler Berdasarkan Artis:**
    - "Dance Monkey" oleh Tones and I mencapai popularitas tertinggi (100).
    - "ROXANNE" oleh Arizona Zervas mengikuti dengan skor hingga 99.

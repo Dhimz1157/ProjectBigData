@@ -41,7 +41,7 @@ Dataset terdiri dari 23 kolom, dengan kombinasi tipe data numerik dan kategorika
 ### 1. Popularitas Genre dan Subgenre
 Berdasarkan visualisasi di atas, genre `pop` mendominasi popularitas dengan rata-rata tertinggi, diikuti oleh genre `latin`, `rap`, dan `r&b`. Subgenre `dance pop` menjadi yang paling menonjol dalam kategori `pop`, sedangkan `reggaeton` dan `latin pop` mendominasi dalam genre `latin`.
 
-![Popularitas Genre](sandbox:/mnt/data/genre_popularity.png)
+![Popularitas Genre](./newplot.png)
 
 ### 2. Lagu-lagu Terpopuler Berdasarkan Artis
 Dari analisis ini, "Dance Monkey" oleh Tones and I memiliki popularitas tertinggi dengan skor 100. Lagu-lagu seperti "ROXANNE" oleh Arizona Zervas juga menonjol, menunjukkan bagaimana tren media sosial dapat memengaruhi popularitas.

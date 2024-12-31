@@ -23,12 +23,6 @@ Dataset terdiri dari 23 kolom, dengan kombinasi tipe data numerik dan kategorika
    - Genre `pop` adalah yang paling populer, dengan rata-rata popularitas 47,74.
    - Subgenre `dance pop` menonjol dengan rata-rata popularitas 52,08.
 
-   ![Popularitas Genre dan Subgenre](sandbox:/mnt/data/newplot.png)
-
-   <p align="justify">
-   Berdasarkan visualisasi di atas, genre `pop` mendominasi popularitas dengan rata-rata tertinggi, diikuti oleh genre `latin`, `rap`, dan `r&b`. Subgenre `dance pop` menjadi yang paling menonjol dalam kategori `pop`, sedangkan `reggaeton` dan `latin pop` mendominasi dalam genre `latin`.
-   </p>
-
 2. **Lagu Terpopuler Berdasarkan Artis:**
    - "Dance Monkey" oleh Tones and I mencapai popularitas tertinggi (100).
    - "ROXANNE" oleh Arizona Zervas mengikuti dengan skor hingga 99.
@@ -39,6 +33,30 @@ Dataset terdiri dari 23 kolom, dengan kombinasi tipe data numerik dan kategorika
 
 4. **Distribusi Danceability:**
    - Rata-rata danceability adalah 0,65, dengan sebagian besar lagu berada di rentang 0,56-0,76.
+
+---
+
+## Analisis Data Tambahan 📊
+
+### 1. Popularitas Genre dan Subgenre
+Berdasarkan visualisasi di atas, genre `pop` mendominasi popularitas dengan rata-rata tertinggi, diikuti oleh genre `latin`, `rap`, dan `r&b`. Subgenre `dance pop` menjadi yang paling menonjol dalam kategori `pop`, sedangkan `reggaeton` dan `latin pop` mendominasi dalam genre `latin`.
+
+![Popularitas Genre](sandbox:/mnt/data/genre_popularity.png)
+
+### 2. Lagu-lagu Terpopuler Berdasarkan Artis
+Dari analisis ini, "Dance Monkey" oleh Tones and I memiliki popularitas tertinggi dengan skor 100. Lagu-lagu seperti "ROXANNE" oleh Arizona Zervas juga menonjol, menunjukkan bagaimana tren media sosial dapat memengaruhi popularitas.
+
+### 3. Subgenre Terpopuler Berdasarkan Genre
+Dalam kategori `pop`, subgenre `post-teen pop` mencatatkan popularitas tertinggi dengan rata-rata 56,83. Sedangkan dalam kategori `latin`, subgenre `reggaeton` mendominasi dengan popularitas rata-rata 52,87.
+
+### 4. Distribusi Lagu Berdasarkan Tahun Rilis
+Visualisasi menunjukkan bahwa lagu-lagu dari tahun 1957 adalah yang tertua dalam dataset ini. Selain itu, ada peningkatan signifikan dalam jumlah lagu yang dirilis pada dekade 2010-an, mencerminkan ekspansi industri musik pada platform digital.
+
+### 5. Tren Popularitas Selama Bertahun-tahun
+Tahun 1958 mencatatkan rata-rata popularitas tertinggi dengan skor 73, kemungkinan karena terbatasnya data dari era tersebut. Tren berikutnya menunjukkan fluktuasi popularitas lagu dari waktu ke waktu.
+
+### 6. Distribusi Danceability
+Sebagian besar lagu memiliki danceability antara 0,56 hingga 0,76, dengan rata-rata 0,65. Hal ini menunjukkan bahwa sebagian besar lagu memiliki karakteristik yang cukup menarik untuk aktivitas fisik seperti menari.
 
 ---
 

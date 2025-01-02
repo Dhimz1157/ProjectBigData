@@ -6,6 +6,33 @@ Proyek ini bertujuan untuk menganalisis dataset Spotify menggunakan pendekatan e
 
 ---
 
+## Latar Belakang
+Dataset Spotify menyediakan informasi komprehensif tentang lagu-lagu, termasuk karakteristik audio, genre, dan metrik popularitas. Analisis ini bertujuan mengungkap faktor-faktor yang mempengaruhi popularitas lagu dan memberikan wawasan bagi musisi dan industri musik.
+
+---
+
+## Metodologi
+### Data Cleaning dan Preprocessing
+- Dataset: 32,833 lagu dengan 23 fitur
+- Penanganan missing values
+- Normalisasi fitur audio
+- Konversi tanggal rilis ke format standar
+
+### Analisis Exploratori
+1. *Analisis Temporal*
+   - Tren popularitas berdasarkan tahun rilis
+   - Evolusi karakteristik audio dari waktu ke waktu
+
+2. *Analisis Genre*
+   - Distribusi popularitas antar genre
+   - Korelasi karakteristik audio dengan popularitas
+
+3. *Analisis Subgenre*
+   - Impact subgenre terhadap popularitas
+   - Karakteristik unik tiap subgenre
+
+---
+
 ## Dataset 📂
 Dataset yang digunakan dalam proyek ini berasal dari Spotify, yang mencakup informasi lagu seperti nama, artis, popularitas, genre, durasi, dan fitur audio lainnya. Dataset ini tersedia untuk diunduh melalui tautan berikut:
 
@@ -76,6 +103,20 @@ Grafik yang dihasilkan mencakup:
 - **Histogram Popularitas Lagu**: Menunjukkan mayoritas lagu berada di tingkat popularitas menengah.
 - **Plot Distribusi Tempo**: Tempo rata-rata adalah 120 BPM.
 - **Durasi Lagu**: Sebagian besar lagu berdurasi antara 2,5 hingga 4 menit.
+
+---
+
+## Rekomendasi
+
+### Untuk Musisi
+1. Fokus pada elemen energy dan danceability
+2. Pertimbangkan tren subgenre dalam produksi
+3. Optimasi karakteristik audio sesuai target genre
+
+### Untuk Platform
+1. Implementasi sistem rekomendasi berbasis karakteristik audio
+2. Personalisasi berdasarkan preferensi subgenre
+3. Monitoring tren temporal untuk kurasi playlist
 
 ---
 
